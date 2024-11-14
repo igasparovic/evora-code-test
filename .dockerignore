@@ -1,0 +1,8 @@
+vendor/
+node_modules/
+.idea/
+storage/framework/cache/*
+storage/logs/*
+bootstrap/cache/*
+database/database.sqlite
+.env
